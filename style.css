@@ -1,0 +1,105 @@
+.navbar 
+{  background-color: rgb(29, 31, 29);
+   color: antiquewhite;
+   opacity: 0.9;
+    
+    
+}
+
+
+.jumbotron 
+{
+  /* Choisis la hauteur ici */
+  height: 550px;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("surf1.jpg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.6;
+   padding: 20px;
+      
+}
+
+.boutons 
+{   padding: 18px;
+    
+    
+}
+
+    
+    
+
+
+.container
+{ text-align-last: center;
+  opacity: 0.7;
+color: rgb(61, 60, 60);}
+
+p
+{
+    text-align: justify;
+}
+
+h2
+{   padding: 10px;
+
+}
+
+body 
+{color: rgb(61, 60, 60);
+ 
+}
+
+.Temoignages
+{ display: flex;
+justify-content: space-around;}
+
+h1 
+{text-align: center;
+ color: rgb(61, 60, 60);
+opacity: 0.8;
+ 
+}
+
+.card mb-4 shadow-sm
+{background-image: url(surf2.jpg);    
+    
+}
+
+
+.footer {
+  background: rgb(29, 31, 29);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+  padding: 0px 50px;
+  color: antiquewhite;
+  opacity: 0.9;
+}
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+.footer-links a {
+  color: antiquewhite;
+  opacity: 0.15;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 0px 10px;
+}
+.footer-links a:hover {
+  opacity: 1;
+}
+.footer .fa-heart {
+  color: #D23333;
+}
+
+
+
+    
+    
